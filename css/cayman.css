@@ -143,7 +143,7 @@ a:hover { text-decoration: underline; }
   .btn + .btn { margin-top: 1rem; margin-left: 0; } }
 
 /*.page-header { color: #fff; text-align: center; background-color: #283256; background-image: url(../assets/misty.jpg); }*/
-.page-header { color: #fff; text-align: center; background-color: #283256; background-image: url(../assets/food.jpg); }
+.page-header { color: #fff; text-align: center; background-color: #283256; background: url(../assets/food.jpg) center; }
 .page-header a { color: #fff; }
 @media screen and (min-width: 64em) { .page-header { padding: 5rem 6rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .page-header { padding: 3rem 4rem; } }
