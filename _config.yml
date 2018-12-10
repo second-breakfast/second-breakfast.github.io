@@ -1,0 +1,26 @@
+# Setup
+title:        Second Breakfast
+tagline:      Philosophy, Poetry, Food For Thought
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       Chris Varga
+  url:        https://github.com/second-breakfast
+
+defaults:
+  -
+    scope:
+      path: ""      # empty string for all files
+      type: posts   # limit to posts
+    values:
+      is_post: true # automatically set is_post=true for all posts
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown

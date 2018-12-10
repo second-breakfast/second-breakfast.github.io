@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{{ site.locale }}">
+  
+  {% include head.html %}
+
+  <body>
+    {% include page-header.html %}
+
+    <section class="main-content">
+      <h1>{{ page.title | default: ""}}</h1>
+      {% if page.is_post %}
+          <span class="date">{{ page.date | date: '%B %d, %Y' }}</span>
+      {% endif %}
+      {{ content }}
+
+      {% include page-footer.html %}
+
+    </section>
+
+  </body>
+</html>
