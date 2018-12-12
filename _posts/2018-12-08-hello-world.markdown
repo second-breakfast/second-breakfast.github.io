@@ -10,6 +10,8 @@ Hello there, and welcome to my blog! If you have been a faithful follower of Phi
 
 Once upon a time, a philosopher said:
 
-> This is a block quote. Fear me! --Socrates
+> This is a block quote. Fear me!
+>
+> --Socrates
 
 The End.
