@@ -19,6 +19,10 @@ input {
   height: 40px;
 }
 
+h1 {
+  line-height: 1.4;
+}
+
 .date { font-style: italic; color: #7c7c7c; }
 
 .highlight table td { padding: 5px; }
