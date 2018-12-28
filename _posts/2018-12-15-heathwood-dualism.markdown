@@ -11,8 +11,8 @@ Every so often, you can find a philosopher claiming to refute an argument by cra
 ### A Peculiar Parody
 In my experience, parody arguments are rarely successful because they often overlook a distinction that renders the two arguments dissimilar. A great example of such an oversight is [Professor Heathwood's attempt](https://spot.colorado.edu/~heathwoo/Phil100/AgainstMM.html){:target="_blank"} on his University of Colorado page to parody Descartes' famous Argument From Doubt. Descartes' argument, according to Professor Heathwood, has the following form:
 
-1. Descartes has an existence than cannot be doubted by Descartes.
-2. Descartes body has an existence than can be doubted by Descartes.
+1. Descartes has an existence that cannot be doubted by Descartes.
+2. Descartes body has an existence that can be doubted by Descartes.
 3. If (1) and (2), then Descartes is not identical to Descartes' body.
 
 ---
