@@ -37,7 +37,7 @@ But this point aside, even if we were to grant premise (1) for the sake of argum
 
 In short, why think that God only had us modern folks in mind when he wrote the Bible? That is pretty presumptuous, don’t you think? According to Christian thought, just as God revealed himself as Jesus in a particular period of history — which means he followed certain customs, wore certain clothes, and spoke certain languages — God also revealed the Bible into a particular period of history. If that is the case, then it is only natural that the medium of God’s communication would take on some of the characteristics of the period of history in which it was revealed.
 
-The upshot of this way of thinking about God’s omniscience in relation to the Bible is that Christians can rejoice with confidence that the words we have in Scripture today are the very words our sovereign God wanted us to have — no matter how they reached their final form, or who their original audience was.
+The upshot of this way of thinking about God’s omniscience in relation to the Bible is that Christians can rejoice with confidence that the words we have in Scripture today are the *very* words our sovereign God wanted us to have — no matter how they reached their final form, or who their original audience was.
 
 ### Notes
 <sup>1</sup> The link to the video for this transcript is [here](https://youtu.be/bdUC8nRVyYY?t=1962). See also a similar argument he makes [elsewhere](https://www.youtube.com/watch?v=8zV3vIXZ-1Y).
