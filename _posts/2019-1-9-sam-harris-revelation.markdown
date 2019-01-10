@@ -21,6 +21,7 @@ Distilling down the key claims being made, Harris’ argument essentially takes 
 
 I think it is fairly easy to see how premise (1) comes straight from the transcript. As for premise (2), since Harris never fleshes out exactly what the problem is with the Bible being improvable, we can only try our best at a charitable interpretation. This initial statement of the second premise is surely in the ballpark of what Harris had in mind, however, perhaps we could strengthen it in order to force a stronger conclusion.
 
+{:start="2"}
 2. An omniscient being would *never* write a book that could be improved.
 
 This phrasing would allow us to conclude that an omniscient being in fact *did not* write the Bible, not just that it is *unlikely*. In any case, either of these statements of premise (2) seem to be a reasonable interpretation; whichever statement we prefer, it does not change the argument’s main logical thrust: the Bible can be improved in some way, but if an omniscient being wrote it, that should not be the case.
