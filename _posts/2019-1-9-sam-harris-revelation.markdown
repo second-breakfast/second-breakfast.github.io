@@ -28,7 +28,7 @@ This phrasing would allow us to conclude that an omniscient being in fact *did n
 
 So, with the argument reasonably stated and clearly understood, is it compelling? Not at all. In fact, both premises are highly dubious, and for the same reason.
 
-### Problems Improving
+### Improving History?
 For one, the notion of “improving” the Bible is vague. Improved for *who* exactly, or for *what* purpose? By “improved,” Harris probably means something like “more agreeable to our modern ethical sensibilities,” or “more accurate according to modern scientific standards.” However, this way of thinking neglects to consider the impact of the Bible on history as a whole. Contrary to Harris, it is plausible that an omniscient being, who knew exactly how each person throughout history would be impacted as a result of reading certain passages of the Bible, would include exactly what he wanted in the Bible in order to accomplish his purposes throughout the *entire* history of the world.
 
 But this point aside, even if we were to grant premise (1) for the sake of argument, premise (2) hardly fares any better. That is because it is still entirely plausible that an omniscient being in fact *would* write a book that could be “improved” in order to relate to its original audience on their own terms, using references to their culture and concepts they could understand. In other words, we cannot neglect to consider the original audience of the Bible when thinking about its characteristics and presuppositions. The Old Testament scholar John Walton articulates this point well:
