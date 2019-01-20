@@ -6,7 +6,7 @@ categories: main
 published: true
 ---
 
-In a few different places across the web, the intellectual Sam Harris has repeated a particular argument against the idea that the Bible was written by an omniscient being. In this précis, I want to unpack that argument into some digestible premises, and consider a few different ways they could be interpreted. I’ll conclude by showing where I think the argument goes wrong.
+In several places across the web, the intellectual Sam Harris has repeated a particular argument against the idea that the Bible was written by an omniscient being. In this précis, I want to unpack that argument into some digestible premises, and consider a few different ways they could be interpreted. I’ll conclude by showing where I think the argument goes wrong.
 
 ### Improving the Bible
 The following transcript from one of Harris’ interviews is a good summary of the argument:
@@ -19,7 +19,7 @@ Distilling down the key claims being made, Harris’ argument essentially takes 
 2. An omniscient being probably wouldn’t write a book that could be improved.
 3. Therefore, an omniscient being probably didn’t write the Bible.
 
-I think it is fairly easy to see how premise (1) comes straight from the transcript. As for premise (2), since Harris never fleshes out exactly what the problem is with the Bible being improvable, we can only try our best at a charitable interpretation. This initial statement of the second premise is surely in the ballpark of what Harris had in mind, however, perhaps we could strengthen it in order to force a stronger conclusion.
+I think it is fairly easy to see how premise (1) comes straight from the transcript. As for premise (2), since Harris never fleshes out exactly what the problem is with the Bible being improvable, we can only try our best at a charitable interpretation. This initial statement of the second premise is surely in the ballpark of what Harris had in mind. However, perhaps we could strengthen it in order to force a stronger conclusion.
 
 {:start="2"}
 2. An omniscient being would *never* write a book that could be improved.
@@ -37,7 +37,7 @@ But this point aside, even if we were to grant premise (1) for the sake of argum
 
 In short, why think that God only had us modern folks in mind when he wrote the Bible? That is to be guilty of [presentism](https://en.m.wikipedia.org/wiki/Presentism_(literary_and_historical_analysis)), and is pretty presumptuous, don’t you think? According to Christian thought, just as God revealed himself as Jesus in a particular period of history — which means he followed certain customs, wore certain clothes, and spoke certain languages — God also revealed the Bible into a particular period of history. If that is the case, then it is only natural that the medium of God’s communication would take on some of the characteristics of the period of history in which it was revealed.
 
-In conclusion, Harris’ argument is unpersuasive because the notion of improving the Bible is not only vague, but also incredibly anachronistic. Harris also neglects to consider the possibility that God might be ok writing a book that could be “improved” — as long as he knows it will accomplish his purposes in history through those who read it, both in ancient times and in the present. The upshot of this way of thinking about God’s omniscience in relation to the Bible is that Christians can rejoice with confidence that the words we have in Scripture today are the *very* words our sovereign God wanted us to have — no matter how they reached their final form, or who their original audience was.
+In conclusion, Harris’ argument is unpersuasive because the notion of improving the Bible is not only vague, but also incredibly anachronistic. Harris also neglects to consider the possibility that God might be ok writing a book that could be “improved” — as long as he knew it would accomplish his purposes in history through those who read it, both in ancient times and in the present. The upshot of this way of thinking about God’s omniscience in relation to the Bible is that Christians can rejoice with confidence that the words we have in Scripture today are the *very* words our sovereign God wanted us to have — no matter how they reached their final form, or who their original audience was.
 
 ### Notes
 <sup>1</sup> The link to the video for this transcript is [here](https://youtu.be/bdUC8nRVyYY?t=1962). See also a similar argument he makes [elsewhere](https://www.youtube.com/watch?v=8zV3vIXZ-1Y).
