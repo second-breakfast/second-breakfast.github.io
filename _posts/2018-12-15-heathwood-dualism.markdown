@@ -19,7 +19,7 @@ In my experience, parody arguments are rarely successful because they often over
 
 Therefore, Descartes is not identical to Descartes' body.
 
-The key to premise (3) is [Leibniz's Law](https://plato.stanford.edu/entries/identity-indiscernible/){:target="_blank"}, a foundational metaphysical principle that virtually all philosophers accept. It states that for any A and B, if A is identical to B, then whatever is true of A is true of B and vice versa. It is easy to see why this principle is uncontroversial, since how could A be any different than B if A **is** B? Another way of putting this principle is that if A is identical to B, then whatever properties are had by A are had by B and vice versa.
+The key to premise (3) is [Leibniz's Law](https://plato.stanford.edu/entries/identity-indiscernible/){:target="_blank"}, a foundational metaphysical principle that virtually all philosophers accept. It states that for any A and B, if A is identical to B, then whatever is true of A is true of B and vice versa. It is easy to see why this principle is uncontroversial, since how could A be any different than B if A *is* B? Another way of putting this principle is that if A is identical to B, then whatever properties are had by A are had by B and vice versa.
 
 With Descartes' argument thus formulated, Heathwood outlines his parody argument as follows:
 
