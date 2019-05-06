@@ -6,7 +6,7 @@ categories: main
 published: true
 ---
 
-While I am an agnostic about evolution, many thinkers, both Christians and atheists, have argued that evolution is incompatible with Christian belief. This is an important claim, since if true, it would mean that if evolution could be shown to be true beyond a doubt, then Christianity could be shown to be false.
+While I am an agnostic about evolution, many thinkers, both Christians and atheists, have argued that evolution is incompatible with belief in God. This is an important claim, since if true, it would mean that if evolution could be shown to be true beyond a doubt, then Christianity could be shown to be false.
 
 While, in my view, it is doubtful that the former will ever occur, the stakes are nevertheless still high. It is therefore worth taking a careful look at arguments that claim belief in evolution is incompatible with belief in God. In short, what we want to know is this: could evolution have possibly been used by God to create the diversity of life we see today, perhaps with some divine interventions? If this is even possible, then Christians need not worry about evolution, whichever way the evidence ends up pointing. The Christian is free to follow the evidence where it leads.
 
