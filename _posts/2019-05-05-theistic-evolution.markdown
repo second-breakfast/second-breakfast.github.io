@@ -80,7 +80,7 @@ What Lennox’s thought experiment shows is that it is possible that God acted s
 
 <sup>8</sup> McGrath, *The Big Question*, p. 125; emphasis added.
 
-<sup>9</sup> Alvin Plantinga, *Where the Conflict Really Lies: Science, Religion, and Naturalism* (New York: Oxford University press, 2011), p. 11.
+<sup>9</sup> Alvin Plantinga, *Where the Conflict Really Lies: Science, Religion, and Naturalism* (New York: Oxford University Press, 2011), p. 11.
 
 <sup>10</sup> Plantinga, *Where the Conflict Really Lies*, p. 12; emphasis in original.
 
