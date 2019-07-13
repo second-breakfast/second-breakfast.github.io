@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  The Foundation for Morality: A Response to Nagel
+title:  Nagel and the Foundation for Morality
 date:   2019-07-13 00:00:00
 categories: main
 published: true
