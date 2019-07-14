@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Sam Harris On Revelation
+title:  Sam Harris on the Bible
 date:   2019-1-9 00:00:00
 categories: main
 published: true
