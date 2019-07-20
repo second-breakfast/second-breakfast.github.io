@@ -23,6 +23,8 @@ h1 {
   line-height: 1.4;
 }
 
+li { line-height: 1.6; }
+
 .date { font-style: italic; color: #7c7c7c; }
 
 .highlight table td { padding: 5px; }
