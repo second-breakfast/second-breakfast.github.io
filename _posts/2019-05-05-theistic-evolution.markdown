@@ -49,7 +49,7 @@ With this caveat for miracles aside, there is clearly support in Scripture for G
 
 So, I do not see any new problems raised by Grudem’s first change to the definition of theistic evolution. The fact that we may not be able to discern whether a random mutation was caused by God is not a problem for the idea that evolution was guided by God. In many cases, God’s activity in nature might not be empirically detectable by us, such as for normal weather patterns or random mutations, but in other cases it clearly is, such as for the resurrection or the parting of the red sea. This is a characterization of the theistic evolution view that its proponents would welcome, and it seems to me that there is no new problem here.
 
-#### Purely Natural
+#### Purely Natural?
 What about Grudem’s second change to the definition of theistic evolution, which adds that all things evolved by “purely natural processes”? Here the change to the definition seems confused, as it tries to directly place evolution in conflict with God by adding the phrase “purely natural.” Frankly, I don’t know what Grudem means by “purely natural” here, but surely if God acts in nature to guide evolution (even if this is not detectable by us), then evolution cannot be a *purely* natural process.
 
 So, I do not think theistic evolutionists such as Plantinga or McGrath would accept this change to the definition. Indeed, both Plantinga and McGrath affirm not only that God acts directly in the world, but that in many cases this is empirically detectable. In short, it therefore seems that any new arguments by Grudem against theistic evolution that are based on this “purely natural processes” add-on to the definition are devoted to a critique, not of theistic evolution, but a straw man.
