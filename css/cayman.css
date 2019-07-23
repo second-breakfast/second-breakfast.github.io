@@ -155,9 +155,9 @@ li { line-height: 1.6; }
 
 * { box-sizing: border-box; }
 
-body { padding: 0; margin: 0; font-family: "Merriweather", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.4; color: rgba(0,0,0,0.87); }
+body { padding: 0; margin: 0; font-family: "Merriweather", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.4; color: #333 }
 
-body p { font-family: "Open Sans"; line-height: 1.6; }
+body p { font-family: "Open Sans"; line-height: 1.8; font-size: 18px; }
 
 a { color: #159957; text-decoration: none; }
 a:hover { text-decoration: underline; }
@@ -188,7 +188,7 @@ a:hover { text-decoration: underline; }
 
 .main-content { word-wrap: break-word; }
 .main-content :first-child { margin-top: 0; }
-@media screen and (min-width: 64em) { .main-content { max-width: 64rem; padding: 2rem 6rem; margin: 0 auto; font-size: 1.1rem; } }
+@media screen and (min-width: 64em) { .main-content { max-width: 56rem; padding: 2rem 6rem; margin: 0 auto; font-size: 1.1rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .main-content { padding: 2rem 4rem; font-size: 1.1rem; } }
 @media screen and (max-width: 42em) { .main-content { padding: 2rem 1rem; font-size: 1rem; } }
 .main-content img { max-width: 100%; }
