@@ -11,6 +11,10 @@ input, textarea {
   resize: none;
 }
 
+body {
+    background-color: #f8f8f8;
+}
+
 textarea {
   height: 150px;
 }
