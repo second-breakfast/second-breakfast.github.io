@@ -6,7 +6,7 @@ categories: main
 published: true
 ---
 
-In various places across the interwebs, Sam Harris, a public intellectual and one of the leading New Atheists, has claimed that the Bible is not divinely inspired. In this précis, I'll unpack the logical form of Harris's argument, and consider its merits in light of what the Bible says about its own inspiration. I conclude by showing where I think the argument goes wrong.
+In various places across the interwebs, Sam Harris, a public intellectual and one of the leading New Atheists, has claimed that the Bible is not divinely inspired. In this précis, I'll unpack the logical form of Harris's argument, and consider its merits in light of what the Bible says about its own inspiration.
 
 ### The Argument Stated
 The following transcript from one of Harris’s interviews is a good summary of the argument:
