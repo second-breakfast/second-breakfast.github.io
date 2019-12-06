@@ -6,7 +6,7 @@ categories: main
 published: true
 ---
 
-In his book *What Does It All Mean?*, the philosopher Thomas Nagel offers three objections against what he deems “the religious foundation for morality.” In this précis, I will summarize Nagel’s objections against the religious view. I shall then argue that the religious approach can answer these objections, and is more promising than Nagel suggests.
+In his book *What Does It All Mean?*, the philosopher Thomas Nagel offers three objections against “the religious foundation for morality.” In this précis, I will summarize Nagel’s objections against the religious view. I shall then argue that the religious approach can answer these objections, and is more promising than Nagel suggests.
 
 ### The Religious View
 Nagel begins his chapter “Right and Wrong” by discussing the case of someone who doesn’t care about others. If this person can get away with killing, stealing, lying, or hurting others, Nagel asks, “what reason does he have not to?"<sup>1</sup> One answer that Nagel considers is what he calls the religious answer, or “the religious foundation for morality.”<sup>2</sup> This approach says that even if you can get away with awful crimes on this earth, and are not punished by the law or your fellow man, “such acts are forbidden by God, who will punish you after death.”<sup>3</sup> Nagel then reflects on the further implications of this view: “if there is no God to back up moral requirements with the threat of punishment and the promise of reward, morality is an illusion.”<sup>4</sup> Echoing Dostoevsky’s famous line, Nagel summarizes this view as follows: “If God does not exist, everything is permitted.”<sup>5</sup>
