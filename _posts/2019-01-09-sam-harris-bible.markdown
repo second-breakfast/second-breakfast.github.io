@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Sam Harris and the Bible
+title:  Sam Harris vs the Bible
 date:   2019-1-9 00:00:00
 categories: main
 published: true
