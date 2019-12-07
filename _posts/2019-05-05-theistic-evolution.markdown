@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  A Critique of Grudem's Critique of Theistic Evolution
+title:  Grudem's Critique of Theistic Evolution
 date:   2019-5-5 00:00:00
 categories: main
 published: true
