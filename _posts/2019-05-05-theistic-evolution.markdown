@@ -67,30 +67,30 @@ What Lennox’s thought experiment shows is that it is possible that God acted s
 
 ### Notes
 
-<sup id="f1">1</sup> Wayne A. Grudem, *Systematic Theology: An Introduction to Biblical Doctrine* (Grand Rapids: Zondervan, 2009), p. 275. [⮠](#a1)
+<sup id="f1">1</sup> Wayne A. Grudem, *Systematic Theology: An Introduction to Biblical Doctrine* (Grand Rapids: Zondervan, 2009), p. 275. [↸](#a1)
 
-<sup id="f2">2</sup> Grudem, *Systematic Theology*, p. 276. [⮠](#a2)
+<sup id="f2">2</sup> Grudem, *Systematic Theology*, p. 276. [↸](#a2)
 
-<sup id="f3">3</sup> Grudem, *Systematic Theology*, p. 276. [⮠](#a3)
+<sup id="f3">3</sup> Grudem, *Systematic Theology*, p. 276. [↸](#a3)
 
-<sup id="f4">4</sup> Grudem, *Systematic Theology*, p. 277. [⮠](#a4)
+<sup id="f4">4</sup> Grudem, *Systematic Theology*, p. 277. [↸](#a4)
 
-<sup id="f5">5</sup> Grudem, *Systematic Theology*, p. 277. [⮠](#a5)
+<sup id="f5">5</sup> Grudem, *Systematic Theology*, p. 277. [↸](#a5)
 
-<sup id="f6">6</sup> Alister McGrath, *The Big Question: Why We Can't Stop Talking About Science, Faith and God* (New York: St. Martin's Press, 2015), p. 124. [⮠](#a6)
+<sup id="f6">6</sup> Alister McGrath, *The Big Question: Why We Can't Stop Talking About Science, Faith and God* (New York: St. Martin's Press, 2015), p. 124. [↸](#a6)
 
-<sup id="f7">7</sup> McGrath, *The Big Question*, p. 124. [⮠](#a7)
+<sup id="f7">7</sup> McGrath, *The Big Question*, p. 124. [↸](#a7)
 
-<sup id="f8">8</sup> McGrath, *The Big Question*, p. 125; emphasis added. [⮠](#a8)
+<sup id="f8">8</sup> McGrath, *The Big Question*, p. 125; emphasis added. [↸](#a8)
 
-<sup id="f9">9</sup> Alvin Plantinga, *Where the Conflict Really Lies: Science, Religion, and Naturalism* (New York: Oxford University Press, 2011), p. 11. [⮠](#a9)
+<sup id="f9">9</sup> Alvin Plantinga, *Where the Conflict Really Lies: Science, Religion, and Naturalism* (New York: Oxford University Press, 2011), p. 11. [↸](#a9)
 
-<sup id="f10">10</sup> Plantinga, *Where the Conflict Really Lies*, p. 12; emphasis in original. [⮠](#a10)
+<sup id="f10">10</sup> Plantinga, *Where the Conflict Really Lies*, p. 12; emphasis in original. [↸](#a10)
 
-<sup id="f11">11</sup> Plantinga, *Where the Conflict Really Lies*, p. 12; emphasis in original. [⮠](#a11)
+<sup id="f11">11</sup> Plantinga, *Where the Conflict Really Lies*, p. 12; emphasis in original. [↸](#a11)
 
-<sup id="f12">12</sup> Wayne A. Grudem et al., *Theistic Evolution: A Scientific, Philosophical, and Theological Critique* (Wheaton: Crossway, 2017), p. 67. [⮠](#a12)
+<sup id="f12">12</sup> Wayne A. Grudem et al., *Theistic Evolution: A Scientific, Philosophical, and Theological Critique* (Wheaton: Crossway, 2017), p. 67. [↸](#a12)
 
-<sup id="f13">13</sup> Plantinga, *Where the Conflict Really Lies*, p. 101. [⮠](#a13)
+<sup id="f13">13</sup> Plantinga, *Where the Conflict Really Lies*, p. 101. [↸](#a13)
 
-<sup id="f14">14</sup> John C. Lennox, *Seven Days That Divide The World: The Beginning According to Genesis and Science* (Grand Rapids: Zondervan, 2011), pp. 183-4. [⮠](#a14)
+<sup id="f14">14</sup> John C. Lennox, *Seven Days That Divide The World: The Beginning According to Genesis and Science* (Grand Rapids: Zondervan, 2011), pp. 183-4. [↸](#a14)
