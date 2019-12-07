@@ -10,7 +10,7 @@ In his book *Think*, the philosopher Simon Blackburn argues that Anselm’s onto
 
 ### The Greatest Conceivable Being
 
-Blackburn presents Anselm’s ontological argument as follows.<sup>1</sup>
+Blackburn presents Anselm’s ontological argument as follows.<sup id="a1">[1](#f1)</sup>
 
 1. The concept of God is understood. Whatever is understood exists in the understanding. *So* God exists in the understanding.
 
@@ -66,7 +66,7 @@ One final point. In his book, Blackburn also briefly mentions the concept of a m
 We have thus seen that Anselm’s argument is quite reasonable when understood in its original context, to say nothing of modern versions of it.<sup>10</sup> While one may disagree with Anselm’s general metaphysical framework, this is a different question than whether his argument is reasonable *within* that framework. Therefore, the debate over Anselm’s ontological argument must ultimately take place at the level of metaphysical frameworks. As it stands, however, a competing metaphysical framework has not even been offered by Blackburn. Furthermore, Blackburn’s parody argument fails to refute Anselm’s argument even within its own framework, because Dreamboat does not satisfy the criteria for great-making properties, and is not even coherent besides. It thus seems to me that Anselm’s ontological argument has not been refuted by Blackburn.<sup>11</sup>
 
 ### Notes
-<sup>1</sup> Simon Blackburn, *Think: A Compelling Introduction to Philosophy* (New York: Oxford University Press, 1999), p.155.
+<sup id="f1">1</sup> Simon Blackburn, *Think: A Compelling Introduction to Philosophy* (New York: Oxford University Press, 1999), p.155.[⮠](#a1)
 
 <sup>2</sup> Blackburn, *Think*, p. 155. See also Alvin Plantinga, *God, Freedom, and Evil* (Grand Rapids: Eerdmans, 1974), p. 87: “How can we outline this argument? It is best construed, I think, as a *reductio ad absurdum* argument. In a *reductio* you prove a given proposition *p* by showing that its denial, *not-p*, leads to (or more strictly, entails) a contradiction or some other kind of absurdity. Anselm’s argument can be seen as an attempt to deduce an absurdity from the proposition that there is no God.”
 
