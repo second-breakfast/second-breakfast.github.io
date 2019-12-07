@@ -11,9 +11,9 @@ In various places across the interwebs, Sam Harris, a public intellectual and on
 ### The Argument Stated
 The following transcript from one of Harris’s interviews is a good summary of the argument:
 
-> The fact that you and I could improve the Bible with very little thought (just take out the worst passages that have no possible redeemable content this year or, I would argue, any other year, and the Bible is already improved), […] the fact that we can edit it to anyone’s advantage, is a problem for the idea that this was written by an omniscient being and not to be superseded by any human effort, now or generations from now. […] Just think about how good a book would be if an omniscient being wrote it. It's very easy to see what could be in there that would still astonish us. It's very easy to see what could be in there that would prove, just based on the time of its emergence, that this couldn't have been the product of merely human minds. <sup>1</sup>
+> The fact that you and I could improve the Bible with very little thought (just take out the worst passages that have no possible redeemable content this year or, I would argue, any other year, and the Bible is already improved), […] the fact that we can edit it to anyone’s advantage, is a problem for the idea that this was written by an omniscient being and not to be superseded by any human effort, now or generations from now. […] Just think about how good a book would be if an omniscient being wrote it. It's very easy to see what could be in there that would still astonish us. It's very easy to see what could be in there that would prove, just based on the time of its emergence, that this couldn't have been the product of merely human minds. <sup id="a1">[1](#f1)</sup>
 
-If we distill the claims made in the transcript above, the argument basically takes the form of a syllogism:
+If we distill the claims made in the transcript, the argument basically takes the form of a syllogism:
 
 1. The Bible can be improved.
 2. An omniscient being probably wouldn’t write a book that could be improved.
@@ -35,7 +35,7 @@ The most obvious problem with Harris's argument is the vague claim that the Bibl
 So, in order to evaluate this argument, it is crucial that we consider what Harris has in mind when he talks about improving the Bible. And if the improvement of a thing is relative to its purpose, then it is also crucial that we consider what Harris thinks, in turn, about the following question: what is the purpose of the Bible?
 
 #### The Purpose of the Bible
-If we look carefully at the way Harris talks about the Bible in various places, he most likely has in mind two specific ways that it can be improved.<sup>2</sup> First, Harris thinks the Bible could be updated to reflect modern views about sex and marriage. Second, he thinks it could be more scientifically accurate. These ways that Harris thinks the Bible can be improved reveal what he thinks its purpose is: to give us moral or scientific facts.
+If we look carefully at the way Harris talks about the Bible in various places, he most likely has in mind two specific ways that it can be improved.<sup id="a2">[2](#f2)</sup> First, Harris thinks the Bible could be updated to reflect modern views about sex and marriage. Second, he thinks it could be more scientifically accurate. These ways that Harris thinks the Bible can be improved reveal what he thinks its purpose is: to give us moral or scientific facts.
 
 Now, if this is what Harris thinks the purpose of the Bible is, then it is easy to see why he thinks it can be improved. However, it is also easy to see that the idea that God wrote the Bible merely in order to provide ancient people with, say, scientific knowledge that they couldn't have gotten otherwise, is implausible. Rather, when we take a look at the Bible's *own claims* about why it was written, we see a different picture.
 
@@ -57,7 +57,7 @@ First of all, think about the original audience of the Bible: given that they wo
 #### An Accommodating God
 These absurdities aside, and contrary to Harris, it is rather entirely plausible that an omniscient being would want write a book that would relate to its original audience on their own terms. That means it would include references to their culture and concepts they could understand, even if that meant such a book could be factually “improved” by the time it got to us modern people. The Old Testament scholar John Walton articulates this point well:
 
-> God has accommodated himself to the world of ancient Israel to initiate that revelation. We therefore recognize that although the Bible is written for us (indeed, for everyone), it is not written to us. In its context, it is not communicated in our language; it is not addressed to our culture; it does not anticipate the questions about the world and its operations that stem from our modern situations and issues.<sup>3</sup>
+> God has accommodated himself to the world of ancient Israel to initiate that revelation. We therefore recognize that although the Bible is written for us (indeed, for everyone), it is not written to us. In its context, it is not communicated in our language; it is not addressed to our culture; it does not anticipate the questions about the world and its operations that stem from our modern situations and issues.<sup id="a3">[3](#f3)</sup>
 
 Indeed, according to Christian thought, just as the God of Israel revealed himself as Jesus of Nazareth in a particular period of history — which means he followed certain customs, wore certain clothes, and spoke certain languages — God also revealed the Bible into particular periods of history. If that is the case, then it is only natural that the Bible would contain some of the values and perspectives of the period of history in which it was revealed. As the theologians of old put it, the Bible contains the words of God, in the words of men.
 
@@ -69,9 +69,9 @@ In conclusion, Harris’s argument against the Bible is unpersuasive. The first 
 Reflecting on the fact that the words we have in the Bible today are exactly as God wanted them to be — otherwise an omniscient and omnipotent God would not have let them be as such — should cause Christians to cherish the fact that Scripture still speaks to us today.
 
 ### Notes
-<sup>1</sup> The link to the video for this transcript is [here](https://youtu.be/bdUC8nRVyYY?t=1962).
+<sup id="f1">1</sup> The link to the video for this transcript is [here](https://youtu.be/bdUC8nRVyYY?t=1962). [⮠](#a1)
 
-<sup>2</sup> See, for instance, the comments he makes [in this interview](https://www.youtube.com/watch?v=8zV3vIXZ-1Y).
+<sup id="f2">2</sup> See, for instance, the comments he makes [in this interview](https://www.youtube.com/watch?v=8zV3vIXZ-1Y). [⮠](#a2)
 
-<sup>3</sup> John H. Walton, *The Lost World of Adam and Eve: Genesis 2-3 and the Human Origins Debate* (Downers Grove, IL: InterVarsity Press, 2015), p. 19.
+<sup id="f3">3</sup> John H. Walton, *The Lost World of Adam and Eve: Genesis 2-3 and the Human Origins Debate* (Downers Grove, IL: InterVarsity Press, 2015), p. 19. [⮠](#a3)
 
