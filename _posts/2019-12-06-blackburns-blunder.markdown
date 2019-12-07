@@ -8,6 +8,19 @@ published: true
 
 In his book *Think*, the philosopher Simon Blackburn argues that Anselm’s ontological argument for God’s existence fails because it is susceptible to refutation by a parody argument. I will argue that Blackburn’s parody argument is unsuccessful.
 
+*Dear Reader,*
+
+*While some of the arguments in this post probably seem like they are hair-splitting, I think it is worth pursuing such details in the pursuit of truth. (As Treebeard might say, we do not say anything in philosophy unless it is worth taking a long time to say.) To keep the flow of my argument from being bogged down, I have included several footnotes that clarify certain points or cite additional quotations to back up my claims. Thankfully, support has now been added to Second Breakfast for linkable citations, so be sure to click those little numbers to check out the footnotes with ease! And don't worry, there are also links at the end of the footnotes that will take you right back to where you were in the article. Enjoy!*
+
+*-Chris*
+
+--
+
+*"Real names tell you the story of the things they belong to in my language, in the Old Entish as you might say. It is a lovely language, but it takes a very long time to say anything in it, because we do not say anything in it, unless it is worth taking a long time to say, and to listen to."*
+
+*—Treebeard, The Lord of the Rings: The Two Towers*
+
+
 ### The Greatest Conceivable Being
 
 Blackburn presents Anselm’s ontological argument as follows.<sup id="a1">[1](#f1)</sup>
