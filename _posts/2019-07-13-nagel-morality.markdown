@@ -53,26 +53,26 @@ But on the nonreligious view, it is a lot harder to see why human beings should 
 We have seen that Nagel’s objections to the religious foundation of morality, when seen in the light of cold morning, are rather feeble. Nagel’s first objection, that people who don’t believe in God can still make moral judgements, takes for granted that there is a right and wrong to begin with, even though he offers no foundation for this apart from God. Similarly, his second objection, that God’s commands are unnecessary because things are wrong in themselves, is unpersuasive since Nagel offers no account of *why* some things are wrong in themselves, but not others. Nagel also fails to consider that, according to the religious view, since God is a necessary being, his moral commands cannot be arbitrary, but rather flow necessarily from his good and perfect nature as the source of goodness itself. Finally, his third objection, that the religious view has no concern for the victim when avoiding harmful acts, misses the fact that on the religious view, it is precisely because God has imbued human beings with inherent value and worth that we should be concerned for the victim in the first place.
 
 ### Notes
-<sup id="f1">1</sup> Thomas Nagel, *What Does It All Mean?: A Very Short Introduction to Philosophy* (New York: Oxford University Press, 1987), p. 61. [⮠](#a1)
+<sup id="f1">1</sup> Thomas Nagel, *What Does It All Mean?: A Very Short Introduction to Philosophy* (New York: Oxford University Press, 1987), p. 61. [↸](#a1)
 
-<sup id="f2">2</sup> Nagel, *What Does It All Mean?*, p. 62. [⮠](#a2)
+<sup id="f2">2</sup> Nagel, *What Does It All Mean?*, p. 62. [↸](#a2)
 
-<sup id="f3">3</sup> Nagel, *What Does It All Mean?*, p. 62. [⮠](#a3)
+<sup id="f3">3</sup> Nagel, *What Does It All Mean?*, p. 62. [↸](#a3)
 
-<sup id="f4">4</sup> Nagel, *What Does It All Mean?*, p. 62. [⮠](#a4)
+<sup id="f4">4</sup> Nagel, *What Does It All Mean?*, p. 62. [↸](#a4)
 
-<sup id="f5">5</sup> Nagel, *What Does It All Mean?*, p. 62. [⮠](#a5)
+<sup id="f5">5</sup> Nagel, *What Does It All Mean?*, p. 62. [↸](#a5)
 
-<sup id="f6">6</sup> Nagel, *What Does It All Mean?*, p. 62. [⮠](#a6)
+<sup id="f6">6</sup> Nagel, *What Does It All Mean?*, p. 62. [↸](#a6)
 
-<sup id="f7">7</sup> Nagel, *What Does It All Mean?*, p. 63. [⮠](#a7)
+<sup id="f7">7</sup> Nagel, *What Does It All Mean?*, p. 63. [↸](#a7)
 
-<sup id="f8">8</sup> Nagel, *What Does It All Mean?*, p. 63. [⮠](#a8)
+<sup id="f8">8</sup> Nagel, *What Does It All Mean?*, p. 63. [↸](#a8)
 
-<sup id="f9">9</sup> Nagel, *What Does It All Mean?*, p. 63. [⮠](#a9)
+<sup id="f9">9</sup> Nagel, *What Does It All Mean?*, p. 63. [↸](#a9)
 
-<sup id="f10">10</sup> While Platonists believe that moral values such as Goodness or Compassion exist in the abstract as Platonic Forms, Platonism cannot account for moral duties, which concern what is right or wrong. Even if we were to grant that Compassion exists as an abstract entity, there is still nothing that would compel us to be compassionate, rather than greedy, on the nonreligious view. We must remember that on the Platonist view, moral vices such as Greed also exist in the abstract, yet there is no human-independent moral authority, apart from God, which could justly require us to be compassionate rather than greedy. Furthermore, it would surely be dubious to refer to Platonists, who believe in a quasi-supernatural realm of nonphysical abstract entities, as nonreligious. In short, Platonism does not exactly sit well with atheism. (See *World Without Design: The Ontological Consequences of Naturalism* by philosopher Michael Rea for a further exploration of this argument.) [⮠](#a10)
+<sup id="f10">10</sup> While Platonists believe that moral values such as Goodness or Compassion exist in the abstract as Platonic Forms, Platonism cannot account for moral duties, which concern what is right or wrong. Even if we were to grant that Compassion exists as an abstract entity, there is still nothing that would compel us to be compassionate, rather than greedy, on the nonreligious view. We must remember that on the Platonist view, moral vices such as Greed also exist in the abstract, yet there is no human-independent moral authority, apart from God, which could justly require us to be compassionate rather than greedy. Furthermore, it would surely be dubious to refer to Platonists, who believe in a quasi-supernatural realm of nonphysical abstract entities, as nonreligious. In short, Platonism does not exactly sit well with atheism. (See *World Without Design: The Ontological Consequences of Naturalism* by philosopher Michael Rea for a further exploration of this argument.) [↸](#a10)
 
-<sup id="f11">11</sup> Nagel, *What Does It All Mean?*, p. 62. [⮠](#a11)
+<sup id="f11">11</sup> Nagel, *What Does It All Mean?*, p. 62. [↸](#a11)
 
-<sup id="f12">12</sup>David Berlinski, *The Devil’s Delusion: Atheism and Its Scientific Pretensions* (New York: Basic Books, 2009), p. 26. [⮠](#a12)
+<sup id="f12">12</sup>David Berlinski, *The Devil’s Delusion: Atheism and Its Scientific Pretensions* (New York: Basic Books, 2009), p. 26. [↸](#a12)
