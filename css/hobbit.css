@@ -166,7 +166,7 @@ body p { font-family: "Open Sans"; line-height: 1.8; font-size: 18px; }
 a { color: #159957; text-decoration: none; }
 a:hover { text-decoration: underline; }
 
-.btn { display: inline-block; margin-bottom: 1rem; color: rgba(255, 255, 255, 0.7); background-color: #159957; border-color: rgba(255, 255, 255, 0.2); border-style: solid; border-width: 1px; border-radius: 0.3rem; transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
+.btn { display: inline-block; margin-bottom: 1rem; color: rgba(255, 255, 255, 0.7); background-color: #025984; border-color: rgba(255, 255, 255, 0.2); border-style: solid; border-width: 1px; border-radius: 0.3rem; transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
 .btn:hover { color: rgba(255, 255, 255, 0.8); text-decoration: none; background-color: #606c71; border-color: rgba(255, 255, 255, 0.3); }
 .btn + .btn { margin-left: 1rem; }
 @media screen and (min-width: 64em) { .btn { padding: 0.75rem 1rem; } }
@@ -178,7 +178,7 @@ a:hover { text-decoration: underline; }
 .page-header a { color: #fff; }
 @media screen and (min-width: 64em) { .page-header { padding: 5rem 6rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .page-header { padding: 3rem 4rem; } }
-@media screen and (max-width: 42em) { .page-header { padding: 2rem 1rem; background: url(../assets/blur.jpg) no-repeat} .page-header a { font-size: 34px; } a { color: #025984} }
+@media screen and (max-width: 42em) { .page-header { padding: 2rem 1rem; background: url(../assets/blur.jpg) no-repeat} .page-header a { font-size: 34px; } a { color: #025984} .site-footer-owner a { color: #025984 } }
 
 .project-name { margin-top: 0; margin-bottom: 0.1rem; }
 @media screen and (min-width: 64em) { .project-name { font-size: 3.25rem; } }
