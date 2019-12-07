@@ -69,9 +69,9 @@ In conclusion, Harris’s argument against the Bible is unpersuasive. The first 
 Reflecting on the fact that the words we have in the Bible today are exactly as God wanted them to be — otherwise an omniscient and omnipotent God would not have let them be as such — should cause Christians to cherish the fact that Scripture still speaks to us today.
 
 ### Notes
-<sup id="f1">1</sup> The link to the video for this transcript is [here](https://youtu.be/bdUC8nRVyYY?t=1962). [⮠](#a1)
+<sup id="f1">1</sup> The link to the video for this transcript is [here](https://youtu.be/bdUC8nRVyYY?t=1962). [↸](#a1)
 
-<sup id="f2">2</sup> See, for instance, the comments he makes [in this interview](https://www.youtube.com/watch?v=8zV3vIXZ-1Y). [⮠](#a2)
+<sup id="f2">2</sup> See, for instance, the comments he makes [in this interview](https://www.youtube.com/watch?v=8zV3vIXZ-1Y). [↸](#a2)
 
-<sup id="f3">3</sup> John H. Walton, *The Lost World of Adam and Eve: Genesis 2-3 and the Human Origins Debate* (Downers Grove, IL: InterVarsity Press, 2015), p. 19. [⮠](#a3)
+<sup id="f3">3</sup> John H. Walton, *The Lost World of Adam and Eve: Genesis 2-3 and the Human Origins Debate* (Downers Grove, IL: InterVarsity Press, 2015), p. 19. [↸](#a3)
 
