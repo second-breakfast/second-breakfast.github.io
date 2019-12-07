@@ -163,7 +163,7 @@ body { padding: 0; margin: 0; font-family: "Merriweather", "Helvetica Neue", Hel
 body p { font-family: "Open Sans"; line-height: 1.8; font-size: 18px; }
 @media screen and (max-width: 42em) { body p { font-size: 17px; } }
 
-a { color: #159957; text-decoration: none; }
+a { color: #025984; text-decoration: none; }
 a:hover { text-decoration: underline; }
 
 .btn { display: inline-block; margin-bottom: 1rem; color: rgba(255, 255, 255, 0.7); background-color: #025984; border-color: rgba(255, 255, 255, 0.2); border-style: solid; border-width: 1px; border-radius: 0.3rem; transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
@@ -174,7 +174,7 @@ a:hover { text-decoration: underline; }
 @media screen and (max-width: 42em) { .btn { display: block; width: 100%; padding: 0.75rem; font-size: 0.9rem; }
   .btn + .btn { margin-top: 1rem; margin-left: 0; } }
 
-.page-header { color: #fff; text-align: center; background-color: #283256; background: url(../assets/misty.jpg) no-repeat center; background-size: cover;}
+.page-header { color: #fff; text-align: center; background-color: #283256; background: url(../assets/blur.jpg) no-repeat center linear-gradient( rgba(0, 0, 0, 0.5); background-size: cover;}
 .page-header a { color: #fff; }
 @media screen and (min-width: 64em) { .page-header { padding: 5rem 6rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .page-header { padding: 3rem 4rem; } }
