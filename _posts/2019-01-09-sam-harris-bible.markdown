@@ -24,9 +24,11 @@ It is easy to see how the first premise comes straight from the transcript. As f
 {:start="2"}
 2. An omniscient being would *never* write a book that could be improved.
 
-This stronger phrasing would allow us to conclude that an omniscient being *did not* write the Bible, not merely that it is *unlikely*. In any case, whichever formulation of the second premise we prefer, it does not change the core of the argument’s logical thrust: the Bible can be improved in some way, but if an omniscient being wrote it, that should not be the case.
+This stronger phrasing would allow us to conclude that an omniscient being *did not* write the Bible, not merely that it is *unlikely*. However, this phrasing ("would never") is probably too logically strong for its own good. For all it takes to refute the claim that an omniscient being would *never* do something is to simply show that, for all we know, an omniscient being *might* want to do it under certain circumstances. Thus, while the stronger phrasing of the second premise would give a stronger conclusion, it is also much more susceptible to refutation.
 
-The argument is valid, but is it sound? Not likely; both premises are questionable. Furthermore, as we will see, the logic of the argument as a whole relies on a dubious assumption about the purpose of the Bible.
+On the other hand, if we use the weaker formulation ("probably"), then the premise is easier to defend, but the conclusion is not compelling; a defender could reply that, while this argument indeed provides some evidence against divine inspiration, there is also other evidence *for* it. The task would then be to weigh the evidence for and against divine inspiration, which is admittedly a subjective task. In the end perhaps the evidence for and against would simply cancel each other out.
+
+In any case, whichever formulation of the second premise we prefer, it does not change the core of the argument’s logical thrust: the Bible can be improved in some way, but if an omniscient being wrote it, that should not be the case. As it stands, therefore, the argument is valid. But is it sound? Not likely; both premises are questionable. Furthermore, as we will see, the argument as a whole relies on a dubious assumption about the purpose of the Bible.
 
 ### The Argument Analyzed
 
