@@ -1,7 +1,6 @@
 ---
 layout: default
-title:  Sam Harris vs the Bible
-date:   2019-1-9 00:00:00
+title:  Sam Harris on Divine Inspiration
 categories: main
 published: true
 ---
