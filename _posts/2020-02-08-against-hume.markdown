@@ -6,7 +6,7 @@ categories: main
 published: true
 ---
 
-The entire Christian faith rests upon whether a single miracle occurred. If Jesus of Nazareth truly rose from the dead, then we need to take him very seriously. But if Jesus did not rise from the dead, then, as St. Paul said, our faith is useless. Clearly, there is a lot at stake if miracles occur. So, should we believe in them?
+The entire Christian faith rests upon a single miracle. If Jesus of Nazareth truly rose from the dead, then we need to take him very seriously. But if Jesus did not rise from the dead, then, as St. Paul said, our faith is useless. Clearly, there is a lot at stake if miracles occur. So, should we believe in them?
 
 In his essay, “Of Miracles”, the Scottish skeptic David Hume argued that miracles are so inherently unlikely that we can reject any miracle claim without even considering the evidence. Hume’s argument has been extremely influential in the philosophy of religion; if he is right, then Christianity is in serious trouble — not to mention other faiths. But is Hume right?
 
