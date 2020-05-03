@@ -60,7 +60,7 @@ Indeed, Deuteronomy is a timely and powerful reminder to modern people living in
 
 <sup id="f2">2</sup> Samuel Balentine, *The Torah’s Vision of Worship*, 184. [↵](#a2)
 
-<sup id="f3">3</sup> In fact, there are numerous features in the text which suggest that Deuteronomy was even written after Moses’ death. For instance, Moses is referred to in the third person throughout the book, he is only referred to as having spoken the words (i.e. which someone else then wrote down), and the book includes a description of his death (Deut. 34). [↵](#a3)
+<sup id="f3">3</sup> In fact, there are numerous features in the text which suggest that they were written after Moses’ death. For instance, Moses is referred to in the third person throughout the book, and the book includes a description of his death (Deut. 34). [↵](#a3)
 
 <sup id="f4">4</sup> See, for example, agreement with this basic thesis in Samuel Balentine: “In Deuteronomy, old laws are not simply codified…instead, they are “preached” in a way that brings them up to date and makes them applicable to new situations.” Samuel Balentine, *The Torah’s Vision of Worship*, 182. [↵](#a4)
 
