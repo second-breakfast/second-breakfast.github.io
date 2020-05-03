@@ -29,7 +29,7 @@ Blackburn presents Anselm’s ontological argument as follows.<sup id="a1">[1](#
 
 2. *Suppose* God only exists in the understanding, and not in reality. Then a greater being than God can be conceived: one that exists in reality. *But* God is defined as that than which nothing greater can be conceived. *So* no greater being can be conceived, by definition. But now we have a contradiction. *So* our original supposition was false.
 
-As Blackburn and others note, the argument takes the form of a reductio ad absurdum (Latin for “reduction to the absurd”).<sup id="a2">[2](#f2)</sup> It supposes something (God only exists in the understanding), and then shows that this leads to a contradiction, allowing us to infer that the supposition is false. It is interesting that Blackburn never denies that the concept of God is understood. So, Blackburn evidently agrees with the first stage of Anselm’s argument that the concept of God is coherent; this will be important later on.
+As Blackburn and others note, the argument takes the form of a *reductio ad absurdum* (Latin for “reduction to the absurd”).<sup id="a2">[2](#f2)</sup> It supposes something (God only exists in the understanding), and then shows that this leads to a contradiction, allowing us to infer that the supposition is false. It is interesting that Blackburn never denies that the concept of God is understood. So, Blackburn evidently agrees with the first stage of Anselm’s argument that the concept of God is coherent; this will be important later on.
 
 ### A Parody Argument
 Blackburn then offers the following parody argument for the existence of “Dreamboat,” a very attractive human lover than which none greater can be conceived.<sup id="a3">[3](#f3)</sup> 
