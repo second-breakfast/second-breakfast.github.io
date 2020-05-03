@@ -6,7 +6,7 @@ date:   2020-05-02 00:00:00
 categories: main
 published: true
 ---
-#### ... *Or* "A Compassionate Reading of Deuteronomy"
+#### Or "A Compassionate Reading of Deuteronomy"
 The Book of Deuteronomy in the Bible, framed as an eloquent farewell speech from Moses to the people of Israel, can be seen as the founding document or constitution of ancient Israel.<sup id="a1">[1](#f1)</sup> And yet, when the laws in Deuteronomy are compared with their older counterparts in the Book of Exodus, they reveal that Israel’s polity was not static, but dynamic, involving continuous interpretation in response to a changing cultural atmosphere.
 
 In this essay, I will argue that the way in which the laws in Deuteronomy expand upon and interpret the laws in Exodus suggests that the underlying social vision of Deuteronomy is an ethic of compassion — what some biblical scholars have deemed “theocentric humanism.”<sup id="a2">[2](#f2)</sup>  I will begin by briefly situating the context of the laws in Deuteronomy in relation to those of Exodus. I will then offer a literary analysis of three key texts in Deuteronomy, highlighting their humanitarian concern by contrasting them with their original statements (or lack thereof) in Exodus. By identifying the compassionate ethical reasoning employed in these paradigmatic texts in Deuteronomy, we can see how they reveal Israel’s God to be essentially loving and compassionate, with a special heart for the least powerful members of society.
