@@ -3,7 +3,7 @@ layout: default
 title:  Is God a Marxist-Feminist?
 date:   2020-05-02 00:00:00
 categories: main
-published: true
+published: false
 ---
 #### (A Compassionate Reading of Deuteronomy)
 The Book of Deuteronomy in the Bible, framed as an eloquent farewell speech from Moses to the people of Israel, can be seen as the founding document or constitution of ancient Israel.<sup id="a1">[1](#f1)</sup> And yet, when the laws in Deuteronomy are compared with their older counterparts in the Book of Exodus, they reveal that Israel’s polity was not static, but dynamic, involving continuous interpretation in response to a changing cultural atmosphere.
