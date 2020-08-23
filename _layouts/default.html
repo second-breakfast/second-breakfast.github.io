@@ -7,7 +7,8 @@
     {% include page-header.html %}
 
     <section class="main-content">
-      <h2>{{ page.title | default: ""}}</h2>
+        <hr class="fancy"> 
+        <h2>{{ page.title | default: ""}}</h2>
       {% if page.is_post %}
           <span class="date">{{ page.date | date: '%B %d, %Y' }}</span>
       {% endif %}
