@@ -17,10 +17,10 @@ Several features of Deuteronomy make it reasonable to see the laws therein as a 
 
 First, Deuteronomy is addressed to Israelites who had been in the Promised Land for a significant amount of time – long enough for interpretation of the laws in Exodus to have taken place. For example, the book opens by saying, “these are the words Moses spoke…east of the Jordan” (Deut. 1:1 [NIV 2011]). The fact that care is taken to mention the location as “east of the Jordan” assumes that the audience is *not* currently east of the Jordan. In other words, they are currently in the Promised Land (which is west of the Jordan), and have been there long enough for this reminder to be necessary. The implication is that the audience of the book of Deuteronomy is a newer generation of people with no direct memory of Moses giving the laws found in Exodus.<sup id="a3">[3](#f3)</sup>
 
-Second, and more crucially, Deuteronomy 1:5 begins the entire book by saying that “Moses began to expound this law.” Since “this law” refers to the laws in the book of Exodus, this is strong evidence that Deuteronomy is claiming to be a later, yet authoritative, restatement and interpretation of those earlier laws.<sup id="a4">[4](#f4)</sup>
+Second, and more crucially, Deuteronomy 1:5 frames the rest of the book by saying that “Moses began to expound this law.” Since “this law” refers to the laws in the book of Exodus, this is strong evidence that Deuteronomy is claiming to be a later, yet authoritative, restatement and interpretation of those earlier laws.<sup id="a4">[4](#f4)</sup>
 
-### Debts and Servants
-Let us begin by putting our money where our mouths are: in Deuteronomy 15:1-18, we see a set of compassionate laws concerning the canceling of debts and freeing of servants.
+### Money Laws
+Let us begin our study by putting our money where our mouths are: in Deuteronomy 15:1-18, we see a set of compassionate money laws concerning the canceling of debts and freeing of servants.
 
 These laws state that creditors are to “cancel any loan they have made to a fellow Israelite” at “the end of every seven years” (Deut. 15:1-2). Similarly, for those who own Hebrew servants, “in the seventh year you must let them go free” (Deut. 15:12). Note that the laws about canceling debts and freeing servants are grouped together here: this makes sense because people would *become* servants by selling themselves into debt: “If any of your people — Hebrew men or women — sell themselves to you and serve you…” (Deut. 15:12).
 
