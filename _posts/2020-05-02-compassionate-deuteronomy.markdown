@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Is God a Marxist-Feminist?
+title:  Is God a Marxist-Feminist?!
 date:   2020-05-02 00:00:00
 categories: main
 published: true
@@ -37,13 +37,13 @@ Thus, we can see that at the heart of the Deuteronomic version of these laws is 
 ### Festival laws
 In Deuteronomy 16:1-17, we see laws concerning three festivals: The Festival of Unleavened Bread (also known as Passover), the Festival of Weeks, and the Festival of Tabernacles.
 
-The most important feature of these laws for our present purpose is *who* is allowed to celebrate the festivals: “you, your sons and daughters, your male and female servants, the Levites in your towns, and the foreigners, and fatherless and the widows living among you” (Deut. 16:11). In short, special care is taken to include the especially vulnerable classes in Israelite society.
-
-By contrast, in the original statement of these laws in Exodus 23:14-17, only men are mentioned (Exod. 23:17). 
+The most important feature of these laws for our present purpose is *who* is allowed to celebrate the festivals: “you, your sons and daughters, your male and female servants, the Levites in your towns, and the foreigners, and fatherless and the widows living among you” (Deut. 16:11). In short, special care is taken to include the especially vulnerable classes in Israelite society. 
 
 However, one might reasonably ask: why then are the Levites, Israel's favored priestly tribe, included in this list? Coogan observes that because of a reform issued by King Josiah, all worship “was to take place only at the central sanctuary.”<sup id="a6">[6](#f6)</sup> This means that many Levites “who had earned their livelihood by officiating at local shrines would now be unemployed” and thus they “\[were\] a needy and protected class, often grouped with slaves, strangers, orphans, and widows.”<sup id="a7">[7](#f7)</sup>
 
-Again lacking in the Exodus version of the law is a reason for obeying the law, while in Deuteronomy we see that the reason is again rooted in compassionate remembrance of slavery in Egypt (Deut. 16:12).
+By contrast, in the original statement of these laws in Exodus 23:14-17, only men are mentioned (Exod. 23:17).
+
+Also again lacking in the Exodus version of the law is a reason for obeying the law, while in Deuteronomy we see that the reason is again rooted in compassionate remembrance of slavery in Egypt (Deut. 16:12).
 
 ### Harvest laws
 Interestingly, there are a small set of laws in Deuteronomy 24:19-21, which in fact have no counterparts in the Exodus laws. These concern compassionate harvesting restrictions: “When you are harvesting in your field and you overlook a sheaf, do not go back to get it. Leave it for the foreigner, the fatherless and the widow” (Deut. 24:19). Identical laws are repeated for harvesting olive tree branches and grapes (Deut. 24:20, 21).
