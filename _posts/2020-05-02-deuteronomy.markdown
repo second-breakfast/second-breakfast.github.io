@@ -39,14 +39,14 @@ In Deuteronomy 16:1-17, we see laws concerning three festivals: The Festival of 
 
 The most important feature of these laws for our present purpose is *who* is allowed to celebrate the festivals: “you, your sons and daughters, your male and female servants, the Levites in your towns, and the foreigners, and fatherless and the widows living among you” (Deut. 16:11). In short, special care is taken to include the especially vulnerable classes in Israelite society. 
 
-However, one might reasonably ask: why then are the Levites, Israel's favored priestly tribe, included in this list? Coogan observes that because of a reform issued by King Josiah, all worship “was to take place only at the central sanctuary.”<sup id="a6">[6](#f6)</sup> This means that many Levites “who had earned their livelihood by officiating at local shrines would now be unemployed” and thus they “\[were\] a needy and protected class, often grouped with slaves, strangers, orphans, and widows.”<sup id="a7">[7](#f7)</sup>
+However, one might reasonably ask: why then are the Levites, Israel's favored priestly tribe, included in this list? Coogan observes that because of a reform issued by King Josiah, all worship “was to take place only at the central sanctuary.”<sup id="a6">[6](#f6)</sup> This means that many Levites “who had earned their livelihood by officiating at local shrines would now be unemployed” and thus they were “a needy and protected class, often grouped with slaves, strangers, orphans, and widows.”<sup id="a7">[7](#f7)</sup>
 
 By contrast, in the original statement of these laws in Exodus 23:14-17, only men are mentioned (Exod. 23:17).
 
 Also again lacking in the Exodus version of the law is a reason for obeying the law, while in Deuteronomy we see that the reason is again rooted in compassionate remembrance of slavery in Egypt (Deut. 16:12).
 
 ### Harvest laws
-Interestingly, there are a small set of laws in Deuteronomy 24:19-21, which in fact have no counterparts in the Exodus laws. These concern harvesting restrictions: “When you are harvesting in your field and you overlook a sheaf, do not go back to get it. Leave it for the foreigner, the fatherless and the widow” (Deut. 24:19). Identical laws are repeated for harvesting olive tree branches and grapes (Deut. 24:20, 21).
+In bringing our brief study to a close, I want to draw attention to a small set of laws in Deuteronomy 24:19-21 which in fact have no counterparts in the Exodus laws. These concern harvesting restrictions: “When you are harvesting in your field and you overlook a sheaf, do not go back to get it. Leave it for the foreigner, the fatherless and the widow” (Deut. 24:19). Identical laws are repeated for harvesting olive tree branches and grapes (Deut. 24:20, 21).
 
 Once more, we see compassionate laws, but even more importantly, a compassionate reason for obeying them: “Remember that you were slaves in Egypt. That is why I command you to do this” (Deut. 24:22).<sup id="a8">[8](#f8)</sup>
 
@@ -72,7 +72,7 @@ Indeed, Deuteronomy is a timely and powerful reminder to modern people living in
 
 <sup id="f7">7</sup> Ibid. [↵](#a7)
 
-<sup id="f8">8</sup> We see a beautiful example of this law being put into practice elsewhere in the Bible, by the compassionate man Boaz to the foreigner woman Ruth, in the moving narrative in the Book of Ruth (cf. Ruth 2). [↵](#a8)
+<sup id="f8">8</sup> We see a beautiful example of this law being put into practice elsewhere in the Bible, by the compassionate man Boaz to the foreigner woman Ruth, in the moving narrative of the book of Ruth (cf. Ruth 2). [↵](#a8)
 
 <sup id="f9">9</sup> Ibid., 152. [↵](#a9)
 
