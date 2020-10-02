@@ -48,14 +48,14 @@ Also again lacking in the Exodus version of the law is a reason for obeying the 
 ### Harvest laws
 In bringing our brief study to a close, I want to draw attention to a small set of laws in Deuteronomy 24:19-21 which in fact have no counterparts in the Exodus laws. These concern harvesting restrictions: “When you are harvesting in your field and you overlook a sheaf, do not go back to get it. Leave it for the foreigner, the fatherless and the widow” (Deut. 24:19). Identical laws are repeated for harvesting olive tree branches and grapes (Deut. 24:20, 21).
 
-Once more, we see compassionate laws, but even more importantly, a compassionate reason for obeying them: “Remember that you were slaves in Egypt. That is why I command you to do this” (Deut. 24:22).<sup id="a8">[8](#f8)</sup>
+Once more, we find compassionate laws, but even more importantly, a compassionate reason for obeying them: “Remember that you were slaves in Egypt. That is why I command you to do this” (Deut. 24:22). Strikingly, we see a beautiful example of this law being put into practice elsewhere in the Bible, by the compassionate man Boaz to the foreign widow Ruth, in the moving narrative of the book of Ruth (cf. Ruth 2).
 
 ### Conclusion
-In the laws in Deuteronomy, then, we see an undeniably strong theme of compassion emerge. Indeed, Coogan notes that these laws arguably “offer something of a populist program”; they have “more of a humanitarian cast” than those found in Exodus, since, in them, “the persons to be shown special attention are the least powerful members of society”.<sup id="a9">[9](#f9)</sup>
+In the laws in Deuteronomy, then, we see an undeniably strong theme of compassion emerge. Indeed, Coogan notes that these laws arguably “offer something of a populist program”; they have “more of a humanitarian cast” than those found in Exodus, since, in them, “the persons to be shown special attention are the least powerful members of society”.<sup id="a8">[8](#f8)</sup>
 
-It is thus regrettable that many today see in the Hebrew Bible only oppression and violence. On the contrary, the compassionate social vision of Deuteronomy, whose polity is foundational to the rest of the Bible, should reframe our reading of any seemingly oppressive texts.<sup id="a10">[10](#f10)</sup>
+It is thus regrettable that many today see in the Hebrew Bible only oppression and violence. On the contrary, the compassionate social vision of Deuteronomy, whose polity is foundational to the rest of the Bible, should reframe our reading of any seemingly oppressive texts.<sup id="a9">[9](#f9)</sup>
 
-Indeed, Deuteronomy is a timely and powerful reminder to modern people living in first world economies that, “to refuse help and compassion to the poor and needy is to act like Pharaoh, not like God: acts of economic injustice enslave; they do not liberate.”<sup id="a11">[11](#f11)</sup>
+Indeed, Deuteronomy is a timely and powerful reminder to modern people living in first world economies that, “to refuse help and compassion to the poor and needy is to act like Pharaoh, not like God: acts of economic injustice enslave; they do not liberate.”<sup id="a10">[10](#f10)</sup>
 
 ### Notes
 <sup id="f1">1</sup> Samuel Balentine, for instance, notes that “the most distinctive feature of the Book of Deuteronomy is its self-conscious claim to the be authoritative *torah* [law] of God mediated through Moses to Israel. No other book of the Pentateuch refers to itself as *torah*”. Samuel E. Balentine, *The Torah’s Vision of Worship* (Minneapolis: Fortress Press, 1999), 184-5. [↵](#a1)
@@ -72,10 +72,8 @@ Indeed, Deuteronomy is a timely and powerful reminder to modern people living in
 
 <sup id="f7">7</sup> Ibid. [↵](#a7)
 
-<sup id="f8">8</sup> We see a beautiful example of this law being put into practice elsewhere in the Bible, by the compassionate man Boaz to the foreigner woman Ruth, in the moving narrative of the book of Ruth (cf. Ruth 2). [↵](#a8)
+<sup id="f8">8</sup> Ibid., 152. [↵](#a8)
 
-<sup id="f9">9</sup> Ibid., 152. [↵](#a9)
+<sup id="f9">9</sup> As Brevard Childs notes: “Deuteronomy…serves as a commentary on how future generations are to approach the law”. Brevard S. Childs, *Introduction to the Old Testament as Scripture* (Minneapolis: Fortress Press, 1979), 224. [↵](#a9)
 
-<sup id="f10">10</sup> As Brevard Childs notes: “Deuteronomy…serves as a commentary on how future generations are to approach the law”. Brevard S. Childs, *Introduction to the Old Testament as Scripture* (Minneapolis: Fortress Press, 1979), 224. [↵](#a10)
-
-<sup id="f11">11</sup> Samuel Balentine, *The Torah’s Vision of Worship*, 196. [↵](#a11)
+<sup id="f10">10</sup> Samuel Balentine, *The Torah’s Vision of Worship*, 196. [↵](#a10)
