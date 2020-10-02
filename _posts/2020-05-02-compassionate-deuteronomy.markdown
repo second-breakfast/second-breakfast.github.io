@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Deuteronomy: A Study of Class and Gender
+title:  "Deuteronomy: A Study of Class and Gender"
 date:   2020-05-02 00:00:00
 categories: main
 published: true
