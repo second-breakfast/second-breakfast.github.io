@@ -22,7 +22,7 @@ Second, and more crucially, Deuteronomy 1:5 frames the rest of the book by sayin
 ### Money Laws
 Let us begin our study by putting our money where our mouths are: in Deuteronomy 15:1-18, we see a set of money laws concerning the canceling of debts and freeing of servants.
 
-These laws state that creditors are to “cancel any loan they have made to a fellow Israelite” at “the end of every seven years” (Deut. 15:1-2). Similarly, for those who own Hebrew servants, “in the seventh year you must let them go free” (Deut. 15:12). Note that the laws about canceling debts and freeing servants are grouped together here: this makes sense because people would *become* servants by selling themselves into debt: “If any of your people — Hebrew men or women — sell themselves to you and serve you…” (Deut. 15:12).
+These laws state that creditors are to “cancel any loan they have made to a fellow Israelite” at “the end of every seven years” (Deut. 15:1-2). Similarly, for those who own Hebrew servants, “in the seventh year you must let them go free” (Deut. 15:12). Note that the laws about canceling debts and freeing servants are grouped together here. This makes sense because people would *become* servants by selling themselves into debt: “If any of your people — Hebrew men or women — sell themselves to you and serve you…” (Deut. 15:12).
 
 By constrast, in Exodus 21:2, we see the original statement of this law: “If you buy a Hebrew servant, he is to serve you for six years. But in the seventh year, he shall go free, without paying anything.” That's it!
 
