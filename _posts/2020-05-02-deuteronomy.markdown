@@ -10,7 +10,7 @@ The book of Deuteronomy in the Bible, framed as an eloquent farewell speech from
 
 In this essay, I will argue that the way in which the laws in Deuteronomy expand upon and interpret the laws in Exodus suggests that the underlying social vision of Deuteronomy is an ethic of compassion — what some biblical scholars have deemed “theocentric humanism.”<sup id="a2">[2](#f2)</sup>  I will begin by briefly situating the context of the laws in Deuteronomy in relation to those of Exodus. I then offer a literary analysis of three key texts in Deuteronomy, highlighting their humanitarian concern by contrasting them with their original statements (or lack thereof) in Exodus.
 
-By identifying the compassionate ethical reasoning employed in these paradigmatic texts in Deuteronomy, we can see how they reveal Israel’s God to be essentially loving and compassionate, with a loyal heart for the least powerful members of society.
+By identifying the ethical reasoning employed in these paradigmatic texts in Deuteronomy, we can see how they reveal Israel’s God to be essentially loving and compassionate, with a loyal heart for the least powerful members of society.
 
 ### The Context of Deuteronomy
 Several features of Deuteronomy make it reasonable to see the laws therein as a later expansion and interpretation of the laws found in Exodus.
@@ -20,7 +20,7 @@ First, Deuteronomy is addressed to Israelites who had been in the Promised Land 
 Second, and more crucially, Deuteronomy 1:5 frames the rest of the book by saying that “Moses began to expound this law.” Since “this law” refers to the laws in the book of Exodus, this is strong evidence that Deuteronomy is claiming to be a later, yet authoritative, restatement and interpretation of those earlier laws.<sup id="a4">[4](#f4)</sup>
 
 ### Money Laws
-Let us begin our study by putting our money where our mouths are: in Deuteronomy 15:1-18, we see a set of compassionate money laws concerning the canceling of debts and freeing of servants.
+Let us begin our study by putting our money where our mouths are: in Deuteronomy 15:1-18, we see a set of money laws concerning the canceling of debts and freeing of servants.
 
 These laws state that creditors are to “cancel any loan they have made to a fellow Israelite” at “the end of every seven years” (Deut. 15:1-2). Similarly, for those who own Hebrew servants, “in the seventh year you must let them go free” (Deut. 15:12). Note that the laws about canceling debts and freeing servants are grouped together here: this makes sense because people would *become* servants by selling themselves into debt: “If any of your people — Hebrew men or women — sell themselves to you and serve you…” (Deut. 15:12).
 
@@ -30,7 +30,7 @@ There are two crucial differences between these sets of laws.
 
 First, while the original law in Exodus 21 is applied only to a male servant — “only the man shall go free” (v.4) — its restatement in Deuteronomy applies to “men or women.” Second, the law in Deuteronomy is more generous. As Michael Coogan eloquently summarizes: “in Exodus 21.2, after six years the Hebrew slave is simply released; in Deuteronomy 15.12-15, he is also to be given abundant gifts.”<sup id="a5">[5](#f5)</sup>
 
-In other words, we see that in Deuteronomy a principle emerges: a spirit of generosity is supposed to be extended far beyond the specific law itself. For instance, God instructs the people “to be openhanded toward your fellow Israelites who are poor and needy” and “not send them away empty-handed” but rather to give to them “liberally…as the LORD your God has blessed you” (Deut. 15:11, 13, 14). Later, there is also a *reason* given for obeying the law, which is not even present in Exodus: “Remember that you were slaves in Egypt and the LORD your God redeemed you. That is why I give you this command today” (Deut. 15:15).
+In other words, we see that in Deuteronomy a principle emerges: a spirit of generosity is supposed to be extended far beyond the specific laws themselves. For instance, God instructs the people “to be openhanded toward your fellow Israelites who are poor and needy” and “not send them away empty-handed” but rather to give to them “liberally…as the LORD your God has blessed you” (Deut. 15:11, 13, 14). Later, there is also a *reason* given for obeying the laws, which is not present in the Exodus law: “Remember that you were slaves in Egypt and the LORD your God redeemed you. That is why I give you this command today” (Deut. 15:15).
 
 Thus, we can see that at the heart of the Deuteronomic version of these laws is an ethic of compassion, grounded in generosity.
 
@@ -46,7 +46,7 @@ By contrast, in the original statement of these laws in Exodus 23:14-17, only me
 Also again lacking in the Exodus version of the law is a reason for obeying the law, while in Deuteronomy we see that the reason is again rooted in compassionate remembrance of slavery in Egypt (Deut. 16:12).
 
 ### Harvest laws
-Interestingly, there are a small set of laws in Deuteronomy 24:19-21, which in fact have no counterparts in the Exodus laws. These concern compassionate harvesting restrictions: “When you are harvesting in your field and you overlook a sheaf, do not go back to get it. Leave it for the foreigner, the fatherless and the widow” (Deut. 24:19). Identical laws are repeated for harvesting olive tree branches and grapes (Deut. 24:20, 21).
+Interestingly, there are a small set of laws in Deuteronomy 24:19-21, which in fact have no counterparts in the Exodus laws. These concern harvesting restrictions: “When you are harvesting in your field and you overlook a sheaf, do not go back to get it. Leave it for the foreigner, the fatherless and the widow” (Deut. 24:19). Identical laws are repeated for harvesting olive tree branches and grapes (Deut. 24:20, 21).
 
 Once more, we see compassionate laws, but even more importantly, a compassionate reason for obeying them: “Remember that you were slaves in Egypt. That is why I command you to do this” (Deut. 24:22).<sup id="a8">[8](#f8)</sup>
 
