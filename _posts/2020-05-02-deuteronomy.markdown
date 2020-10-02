@@ -55,7 +55,7 @@ In the laws in Deuteronomy, then, we see an undeniably strong theme of compassio
 
 It is thus regrettable that many today see in the Hebrew Bible only oppression and violence. On the contrary, the compassionate social vision of Deuteronomy, whose polity is foundational to the rest of the Bible, should reframe our reading of any seemingly oppressive texts.<sup id="a9">[9](#f9)</sup>
 
-Indeed, Deuteronomy is a timely and powerful reminder to modern people living in first world economies that, “to refuse help and compassion to the poor and needy is to act like Pharaoh, not like God: acts of economic injustice enslave; they do not liberate.”<sup id="a10">[10](#f10)</sup>
+Indeed, Deuteronomy is a timely and powerful reminder to those of us living in first world economies that, “to refuse help and compassion to the poor and needy is to act like Pharaoh, not like God: acts of economic injustice enslave; they do not liberate.”<sup id="a10">[10](#f10)</sup>
 
 ### Notes
 <sup id="f1">1</sup> Samuel Balentine, for instance, notes that “the most distinctive feature of the Book of Deuteronomy is its self-conscious claim to the be authoritative *torah* [law] of God mediated through Moses to Israel. No other book of the Pentateuch refers to itself as *torah*”. Samuel E. Balentine, *The Torah’s Vision of Worship* (Minneapolis: Fortress Press, 1999), 184-5. [↵](#a1)
