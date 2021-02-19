@@ -16,10 +16,10 @@
       {% if page.is_post %}
         <br />
         <h2>Leave a reply...</h2>
-        <form method="POST" action="https://formspree.io/afternoon.tea.dinner.supper@gmail.com">
+        <form method="GET" action="mailto:afternoon.tea.dinner.supper@gmail.com">
           <input type="hidden" name="_next" value="https://second-breakfast.github.io/thanks.html"/>
-          <input type="text" name="name" placeholder="Your name" required><br />
-          <textarea name="message" placeholder="Message" required></textarea><br />
+          <input type="subject" name="name" placeholder="Your name" required><br />
+          <textarea name="body" placeholder="Message" required></textarea><br />
           <button class="btn" type="submit">Submit</button>
         </form>
       {% endif %}
