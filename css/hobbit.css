@@ -160,7 +160,7 @@ li { line-height: 1.6; }
 * { box-sizing: border-box; }
 
 body { padding: 0; margin: 0; font-family: "Merriweather", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.4; color: #333; }
-body p { font-family: "Open Sans"; line-height: 1.8; font-size: 20px; }
+body p { font-family: Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; line-height: 1.8; font-size: 20px; }
 @media screen and (max-width: 42em) { body p { font-size: 17px; } }
 
 a { color: #025984; text-decoration: none; }
@@ -206,7 +206,7 @@ a:hover { text-decoration: underline; }
 .main-content .highlight pre, .main-content pre { padding: 0.8rem; overflow: auto; font-size: 0.9rem; line-height: 1.45; border-radius: 0.3rem; -webkit-overflow-scrolling: touch; }
 .main-content pre code, .main-content pre tt { display: inline; max-width: initial; padding: 0; margin: 0; overflow: initial; line-height: inherit; word-wrap: normal; background-color: transparent; border: 0; }
 .main-content pre code:before, .main-content pre code:after, .main-content pre tt:before, .main-content pre tt:after { content: normal; }
-.main-content ul, .main-content ol { margin-top: 0; font-family: "Open Sans"; }
+.main-content ul, .main-content ol { margin-top: 0; font-family: Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"; }
 .main-content blockquote { padding: 0 1rem; margin-left: 0; margin-right: 0; color: #5a6164; border-left: 0.3rem solid #dce6f0; }
 .main-content blockquote > :first-child { margin-top: 0; }
 .main-content blockquote > :last-child { margin-bottom: 0; }
